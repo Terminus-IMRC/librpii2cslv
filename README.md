@@ -17,3 +17,11 @@ $ ./configure
 $ make
 $ sudo make install
 ```
+
+
+## Testing
+
+```
+$ make check
+$ sudo test/test_simple
+```
